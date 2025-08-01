@@ -126,6 +126,7 @@
     <ClCompile Include="Note1.cpp" />
     <ClCompile Include="Note2.cpp" />
     <ClCompile Include="Note3.cpp" />
+    <ClCompile Include="Note4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|solutionrelative:Effective c\u002B\u002B\\Note6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|solutionrelative:Effective c\u002B\u002B\\Note5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Note6.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note6.cpp",
+              "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note6.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note6.cpp",
+              "RelativeToolTip": "Effective c\u002B\u002B\\Note6.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T02:53:25.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Note5.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note5.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note5.cpp",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Note4.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note4.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note4.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Effective c\u002B\u002B\\Note4.cpp",
               "ViewState": "AgIAAIQAAAAAAAAAAAAAAIUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-01T03:06:17.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T03:06:17.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Note3.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note3.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note3.cpp",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Note2.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note2.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note2.cpp",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Note1.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note1.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note1.cpp",

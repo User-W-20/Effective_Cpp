@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|solutionrelative:Effective c\u002B\u002B\\Note17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|solutionrelative:Effective c\u002B\u002B\\Note16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A67CE-81DD-439F-B227-4C7AF141E31A}|Effective c\u002B\u002B\\Effective c\u002B\u002B.vcxproj|solutionrelative:Effective c\u002B\u002B\\Note15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -79,6 +87,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Note17.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note17.cpp",
+              "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note17.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note17.cpp",
+              "RelativeToolTip": "Effective c\u002B\u002B\\Note17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T07:22:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note16.cpp",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note16.cpp",
+              "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note16.cpp",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note16.cpp",
+              "RelativeToolTip": "Effective c\u002B\u002B\\Note16.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-27T02:05:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Note15.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note15.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note15.cpp",
@@ -86,12 +120,11 @@
               "RelativeToolTip": "Effective c\u002B\u002B\\Note15.cpp",
               "ViewState": "AgIAAGoAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T04:28:26.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T04:28:26.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Note14.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note14.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note14.cpp",
@@ -99,12 +132,11 @@
               "RelativeToolTip": "Effective c\u002B\u002B\\Note14.cpp",
               "ViewState": "AgIAAEYAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-25T08:25:16.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:25:16.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Note13.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note13.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note13.cpp",
@@ -116,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Note12.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note12.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note12.cpp",
@@ -128,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Note11.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note11.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note11.cpp",
@@ -140,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Note10.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note10.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note10.cpp",
@@ -152,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Note9.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note9.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note9.cpp",
@@ -164,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Note8.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note8.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note8.cpp",
@@ -176,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Note7.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note7.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note7.cpp",
@@ -188,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Note6.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note6.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note6.cpp",
@@ -200,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Note5.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note5.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note5.cpp",
@@ -212,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Note4.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note4.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note4.cpp",
@@ -224,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Note3.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note3.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note3.cpp",
@@ -236,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Note2.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note2.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note2.cpp",
@@ -248,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Note1.cpp",
               "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Effective c\u002B\u002B\\Effective c\u002B\u002B\\Note1.cpp",
               "RelativeDocumentMoniker": "Effective c\u002B\u002B\\Note1.cpp",

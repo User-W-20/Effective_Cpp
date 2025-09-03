@@ -132,6 +132,7 @@
     <ClCompile Include="Note15.cpp" />
     <ClCompile Include="Note16.cpp" />
     <ClCompile Include="Note17.cpp" />
+    <ClCompile Include="Note18.cpp" />
     <ClCompile Include="Note2.cpp" />
     <ClCompile Include="Note3.cpp" />
     <ClCompile Include="Note4.cpp" />
